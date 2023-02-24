@@ -1,7 +1,8 @@
 Oi, eu sou João Victor!😃  
 
-🤓 - No momento estou aprendendo HTML e CSS  
-🤓 - Também estou estudando a linguagem C  
+Trabalho como Desenvolvedor Web Full Stack
+
+Estou Cursando Análise e Desenvolvimento de Sistemas na Universidade do Oeste Paulista (UNOESTE).
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
