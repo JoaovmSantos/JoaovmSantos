@@ -1,8 +1,8 @@
 Oi, eu sou João Victor!😃  
 
-Trabalho como Desenvolvedor Web Full Stack
+Trabalho como Desenvolvedor Web Full Stack💻
 
-Estou Cursando Análise e Desenvolvimento de Sistemas na Universidade do Oeste Paulista (UNOESTE).
+Estou Cursando Análise e Desenvolvimento de Sistemas na Universidade do Oeste Paulista (UNOESTE).📚
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
